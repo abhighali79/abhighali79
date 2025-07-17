@@ -1,12 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Abhishek Ghali</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Developer | Tech Enthusiast</h3>
 
-
----
-### 💼 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github" />
+  <img src="https://komarev.com/ghpvc/?username=abhighali79&label=Profile%20views&color=0e75b6&style=flat" alt="abhighali79" />
 </p>
 
 ---
@@ -20,6 +16,14 @@
 - 🛠️ Technologies: **React.js, Node.js, Express, MongoDB, Java, MySQL**
 - 🔍 Seeking opportunities as a **Full Stack Developer** or **MERN Developer**
 - 📫 Reach me at: `abhighali79@gmail.com`
+
+---
+
+### 💼 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github" />
+</p>
 
 ---
 
