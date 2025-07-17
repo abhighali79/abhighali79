@@ -3,6 +3,13 @@
 
 
 ---
+### 💼 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github" />
+</p>
+
+---
 
 ### 🧑‍💻 About Me
 
@@ -13,14 +20,6 @@
 - 🛠️ Technologies: **React.js, Node.js, Express, MongoDB, Java, MySQL**
 - 🔍 Seeking opportunities as a **Full Stack Developer** or **MERN Developer**
 - 📫 Reach me at: `abhighali79@gmail.com`
-
----
-
-### 💼 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github" />
-</p>
 
 ---
 
