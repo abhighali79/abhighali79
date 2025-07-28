@@ -39,18 +39,6 @@
 
 ---
 
-### 🔥 Projects Worth Checking
-
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| **Sai Infotech Catalog** | Full-stack product catalog with admin dashboard, WhatsApp integration, and image upload | React, Tailwind, Node.js, PostgreSQL, Cloudinary | [View Project](https://github.com/abhighali79/Sai-Infotech) |
-| **Online Auction System** | Auction-based bidding system with buyer-seller flow | HTML, CSS, JavaScript, PHP, MySQL | [View Project](https://github.com/abhighali79/Online-Auction-System) |
-| **Student Result Analyzer** | Upload PDFs, extract result data, and download in Excel format | React, Node.js, PDF.js, Express, MongoDB | [View Project](https://github.com/abhighali79/Student-Result-Analyzer) |
-
-> Want to see more? Check out my pinned repositories below ⬇️
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
