@@ -48,7 +48,7 @@
   <a href="mailto:abhighali79@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-u8ts.onrender.com" target="_blank">
+  <a href="https://abhisheks-portfolio-ar8w.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
