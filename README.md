@@ -30,12 +30,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhighali79&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhighali79&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhighali79&layout=compact&theme=tokyonight" width="50%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhighali79&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
 
 ---
 
