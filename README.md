@@ -26,13 +26,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github,aws,postman"/>
-  <!-- <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s"
-    width="48"
-    height="48"
-    alt="REST API"
-  /> -->
-
+</p>
 ---
 ### 📈 GitHub Stats
 
