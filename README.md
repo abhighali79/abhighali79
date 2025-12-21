@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=750&color=9FE870&lines=🚀+Full+Stack+Web+Developer;💻+MERN+Stack+Developer;✨+Tech+Enthusiast" alt="Typing SVG" />
 </p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhighali79&label=Profile%20views&color=0e75b6&style=flat" alt="abhighali79" />
 </p>
@@ -26,8 +24,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github,aws,postman"/>
+  
 </p>
+
+
 ---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -56,10 +58,9 @@
 ### 🔝 Top Repositories
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=abhighali79&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="abhighali79's Top Contributed Repositories" height="200" />
-</p>>
+</p>
 
-
-
+---
 
 ### 📫 Let's Connect
 
