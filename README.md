@@ -23,7 +23,7 @@
 ### 🛠️ Skills and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,tailwind,git,github,aws,postman"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,java,mysql,git,github,aws,postman,docker,nginx,maven,linux,ubuntu,windows,vscode"/>
   
 </p>
 
@@ -83,6 +83,10 @@
   &nbsp;&nbsp;
   <a href="mailto:abhighali79@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/abhi_ghali79?igsh=OG1lN2RjOHZkaHY2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
   </a>
   &nbsp;&nbsp;
  <a href="https://abhisheks-portfolio-ar8w.onrender.com/" target="_blank">
